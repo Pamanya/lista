@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1,ESPN SUR 1
+#EXTVLCOPT:http-user-agent=TyranT-Player1.0.1Vl
+http://ultravisiontv.net:8000/TyrantPlay99-845/BBx8ZXBxsue2/1132
+#EXTINF:0,ESPN SUR 2
+#EXTVLCOPT:http-user-agent=TyranT-Player1.0.1Vl
+http://ultravisiontv.net:8000/TyrantPlay99-845/BBx8ZXBxsue2/1133
+#EXTINF:0,ESPN  3
+#EXTVLCOPT:http-user-agent=TyranT-Player1.0.1Vl
+http://ultravisiontv.net:8000/TyrantPlay99-845/BBx8ZXBxsue2/1095
+#EXTINF:0,ESPN MEX
+#EXTVLCOPT:http-user-agent=TyranT-Player1.0.1Vl
+http://ultravisiontv.net:8000/TyrantPlay99-845/BBx8ZXBxsue2/1093
+#EXTINF:0,BEIN SPORTS
+#EXTVLCOPT:http-user-agent=TyranT-Player1.0.1Vl
+http://ultravisiontv.net:8000/TyrantPlay99-845/BBx8ZXBxsue2/1100
+#EXTINF:0,WINSPORTS
+#EXTVLCOPT:http-user-agent=TyranT-Player1.0.1V
+http://ultravisiontv.net:8000/TyrantPlay99-845/BBx8ZXBxsue2/1121
+#EXTINF:0,DIRECTVSPORTS
+#EXTVLCOPT:http-user-agent=TyranT-Player1.0.1V
+http://ultravisiontv.net:8000/TyrantPlay99-845/BBx8ZXBxsue2/1122
+#EXTINF:0,TNT ARG
+#EXTVLCOPT:http-user-agent=TyranT-Player1.0.1V
+http://ultravisiontv.net:8000/TyrantPlay99-845/BBx8ZXBxsue2/1127
+#EXTINF:0,GOL TV ECUADOR
+#EXTVLCOPT:http-user-agent=TyranT-Player1.0.1V
+http://ultravisiontv.net:8000/TyrantPlay99-845/BBx8ZXBxsue2/53
+#EXTINF:0,GOL TV
+#EXTVLCOPT:http-user-agent=TyranT-Player1.0.1V
+http://ultravisiontv.net:8000/TyrantPlay99-845/BBx8ZXBxsue2/1134
+#EXTINF:0,VTV PLUS
+#EXTVLCOPT:http-user-agent=TyranT-Player1.0.1V
+http://ultravisiontv.net:8000/TyrantPlay99-845/BBx8ZXBxsue2/1135
+#EXTINF:0,TIGO SPORTS
+#EXTVLCOPT:http-user-agent=TyranT-Player1.0.1V
+http://ultravisiontv.net:8000/TyrantPlay99-845/BBx8ZXBxsue2/1138
